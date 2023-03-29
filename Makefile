@@ -1,5 +1,5 @@
-all: main
-main: main.cpp
-	g++ -Wall -Werror -o main main.cpp
+all: geometry
+geometry: geometry.cpp
+	g++ -Wall -Werror -o geometry geometry.cpp
 run:
-	./main
+	./geometry

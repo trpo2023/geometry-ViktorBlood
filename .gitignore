@@ -5,3 +5,4 @@ bin/
 *.txt
 !input.txt
 t
+geometry
