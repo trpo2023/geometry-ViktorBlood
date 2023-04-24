@@ -3,6 +3,6 @@
 *swp
 bin/
 *.txt
-!input.txt
-t
 geometry
+main
+.vscode
